@@ -2,7 +2,7 @@
 DNSD project deliverables for project 6 "Disaster pipeline"
 
 ## Table of contents 
-**Junyper Notebook Files** <br>
+**Jupyer Notebook Files** <br>
 Required files for the ETL model and for the ML model
 <br>
 **Data File** <br>
