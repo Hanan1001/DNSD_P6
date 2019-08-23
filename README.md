@@ -39,5 +39,11 @@ Has the run file that allows us to visulize our results
 [can be found here](https://github.com/Hanan1001/DNSD_P6/tree/master/app)
 <br>
 
+## ScreenShots of my run file
+![alt text](https://github.com/Hanan1001/DNSD_P6/blob/master/Capture1.JPG)
+![alt text](https://github.com/Hanan1001/DNSD_P6/blob/master/Capture2.JPG)
+![alt text](https://github.com/Hanan1001/DNSD_P6/blob/master/Capture3.JPG)
+
+
 ## Acknowledgement 
 I would like to thank MiSK Academy for this opprotunity and the team at Udacity for cooredinating such a fruitful program
